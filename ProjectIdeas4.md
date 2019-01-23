@@ -13,6 +13,10 @@ It's a digital circuit simulator.
 
 - Jonathon
 -----------------------------------------------
-
+Big fan of [Pokemon Showdown](https://github.com/Zarel/Pokemon-Showdown) 
+for recreation, would be nice to be a part of that community.
+[Tensorflow](https://github.com/tensorflow/tensorflow) or contributing
+to the Go language would be a more compelling set of challenges and more
+impressive
 
 
